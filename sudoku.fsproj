@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="pilas.fs" />
+    <Compile Include="busqueda.fs" />
+    <Compile Include="DFS.fs" />
+    <Compile Include="DFSL.fs"/>
+    <Compile Include="IDS.fs"/>
+    <Compile Include="sudoku.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+</Project>

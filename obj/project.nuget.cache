@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uzS9ta/HCejeowPmRd3elGafufvnSvBOL7i918WxHb+metSedghfMTD4ZIBjjB8cE+dnUonuodlHR5z1TIn4tg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ouarit\\Documents\\IA1\\sudoku\\sudoku.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ouarit\\.nuget\\packages\\fsharp.core\\7.0.0\\fsharp.core.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
